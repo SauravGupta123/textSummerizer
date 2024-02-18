@@ -1,6 +1,6 @@
-# Project Name
+# QuickSumm
 
-Welcome to [Project Name]! This README provides guidance on setting up and running the project.
+Welcome to [QuickSumm]! This README provides guidance on setting up and running the project.
 
 ## Getting Started
 
